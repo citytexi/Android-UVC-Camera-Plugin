@@ -1,5 +1,6 @@
 # Android-UVC-Camera-Plugin
 - Unity UVC Camera for Android
+- Currently, I have made a commit for laying the groundwork, and it is still a work in progress.
 
 ## 개요
 - 해당 문서는 Unity에 들어가는 Android Plugin입니다.
