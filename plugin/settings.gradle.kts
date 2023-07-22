@@ -3,6 +3,7 @@ pluginManagement {
         google()
         mavenCentral()
         gradlePluginPortal()
+        maven(url = "https://jitpack.io")
     }
 }
 dependencyResolutionManagement {
@@ -13,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "UVCCamera"
-include ':app'
-include ':UVC-Plugin'
+include(":app")
+include(":UVC-Plugin")
